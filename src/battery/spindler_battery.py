@@ -1,6 +1,6 @@
 import datetime
 
-from battery.battery import Battery
+from src.battery.battery import Battery
 
 
 class SpindlerBattery(Battery):
